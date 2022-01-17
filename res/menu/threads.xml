@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/ItemMyPhoneNumber" android:title="@string/label_phone_number" android:showAsAction="never"></item>
+
+</menu>
